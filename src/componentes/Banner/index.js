@@ -6,4 +6,4 @@ const Banner = () => {
     </header>)
 }
 
-export default Banner
+export default Banner 

@@ -7,4 +7,4 @@ const CampoTexto = ({ label, placeholder, valor, aoAlterado, obrigatorio = false
     </div>)
 }
 
-export default CampoTexto
+export default CampoTexto 

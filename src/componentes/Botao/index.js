@@ -6,4 +6,4 @@ const Botao = ({texto}) => {
     </button>
 }
 
-export default Botao
+export default Botao 

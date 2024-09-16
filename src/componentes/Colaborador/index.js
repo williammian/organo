@@ -10,6 +10,6 @@ const Colaborador = ({ colaborador, corDeFundo }) => {
             <h5>{colaborador.cargo}</h5>
         </div>
     </div>)
-}
+} 
 
 export default Colaborador

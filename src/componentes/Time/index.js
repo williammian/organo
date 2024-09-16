@@ -12,4 +12,4 @@ const Time = ({ time, colaboradores }) => {
     )
 }
 
-export default Time
+export default Time 

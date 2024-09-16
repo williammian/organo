@@ -194,7 +194,7 @@ function App() {
   const [colaboradores, setColaboradores] = useState(inicial)
 
   return (
-    <div className="App">
+    <div className="App"> 
       <Banner/>
       
       <Formulario times={times.map(time => time.nome)} aoCadastrar={colaborador => setColaboradores([...colaboradores, colaborador])}/>

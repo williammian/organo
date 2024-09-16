@@ -26,7 +26,7 @@ const Rodape = () => {
         </section>
         <section>
             <p>
-                Desenvolvido por WM.
+                Desenvolvido por WM. 
             </p>
         </section>
     </footer>)
