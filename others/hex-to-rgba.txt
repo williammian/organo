@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/hex-to-rgba
+
+npm i hex-to-rgba
