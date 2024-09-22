@@ -1,0 +1,6 @@
+UUID
+
+https://www.npmjs.com/package/uuid
+
+npm i uuid
+
